@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <path d="M24 36 H104 L92 64 L104 92 H24 L36 64 Z" fill="#9B59B6" stroke="#5B2C7A" stroke-width="3" stroke-linejoin="round"/>
+  <text x="64" y="72" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="20" font-weight="700" fill="#fff">TOP</text>
+</svg>
